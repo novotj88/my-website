@@ -6,5 +6,5 @@ Update on master Github
 
 Dalsi blbosti
 
-Blbosti z lokalu
+Napisu sem uplne neco jineho
 
